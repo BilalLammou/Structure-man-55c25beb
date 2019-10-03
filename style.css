@@ -1,0 +1,20 @@
+td 
+{
+    border: 1px solid rgb(190, 190, 190);
+    padding: 10px;
+}
+td
+{
+    background-color: #696969;
+    color: #fff;
+}
+th {
+    text-align: center;
+     border: 1px solid rgb(190, 190, 190);
+    padding: 10px;
+    background-color: #eee;
+}
+h1
+{
+    font-size: .4rem;
+}
